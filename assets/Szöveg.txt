@@ -1,0 +1,11 @@
+name: Walter White
+profession: chemist and graduate of the California Institute of Technology
+location: Albuquerque, New Mexico, 
+link1: https://twitter.com/#
+link2: https://behance.net/#
+link3: https://instagram.com/#
+rólam: I'm a dedicated family-loving chemist who not only loves to teach chemistry, but also to do it.
+Besides I am a self-made business developer.
+I strive for perfection in everything.
+You'll most likely find me on Twitter talking about molecules, crystals and successful business.
+#C10H15N
