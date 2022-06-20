@@ -52,6 +52,8 @@
     border-top: 1px solid hsla(0, 0%, 30%, .8);
   }
   body {
+    width: 100%;
+    height: 100vh;
     background: url('assets/met.jpg') no-repeat center center fixed;
     background-size: cover;
   }
